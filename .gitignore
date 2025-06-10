@@ -1,4 +1,6 @@
 uvars.py 
+catboost_info
+*.tif 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
